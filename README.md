@@ -1,4 +1,4 @@
-# recursive-pyramid-array
+# Recursive-Pyramid-Array
 My take on a small javascript exercise from codewars
 
 The exercise can be found here : https://www.codewars.com/kata/515f51d438015969f7000013
