@@ -18,5 +18,5 @@ function storey(n, content) {
   }
 }
 
-//the console.log(pyramid(4, 'brick')); would return :
+//console.log(pyramid(4, 'brick')); would return :
 //[['brick'], ['brick', 'brick'], ['brick', 'brick', 'brick'], ['brick', 'brick', 'brick', 'brick']]
